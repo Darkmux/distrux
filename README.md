@@ -4,4 +4,5 @@ INSTALADOR DE DISTRIBUCIONES LINUX EN TERMUX.
 chmod 777 distrux.sh
 # USO
 bash distrux.sh
-# WHITE HACKS © 
+# Creado por Darkmux
+# © WHITE HACKS
